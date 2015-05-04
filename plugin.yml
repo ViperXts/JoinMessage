@@ -1,5 +1,6 @@
 name: JoinMessage
-main: sean\JoinMessage\Main
+main: Sean_M\JoinMessage\Main
 version: "1.0.0"
 api: [1.0.0]
 description: Sends a message upon join to the server.
+author: Sean_M
